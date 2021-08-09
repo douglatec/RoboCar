@@ -1,0 +1,21 @@
+{
+  "name": "robo_car",
+  "version": "1.0.0",
+  "description": "Automaticao de buscar de cadastros CAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "busca",
+    "automatica",
+    "car"
+  ],
+  "author": "Douglas Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
