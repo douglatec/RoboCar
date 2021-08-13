@@ -16,6 +16,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "puppeteer": "^10.2.0",
+    "read-excel-file": "^5.2.8",
     "readline-sync": "^1.4.10"
   }
 }
